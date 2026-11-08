@@ -7,8 +7,9 @@ analisis lanjutan, dan dashboard interaktif.
 🔗 **Demo dashboard:** <URL_STREAMLIT_ANDA>
 
 ## Pertanyaan Bisnis
-1. Stasiun mana yang rata-rata PM2.5-nya tertinggi dan terendah, dan berapa persen harinya melampaui batas harian 75 µg/m³?
-2. Berapa persen PM2.5 musim dingin lebih tinggi dibanding musim panas, dan bulan mana puncaknya?
+- **Pertanyaan 1:** Stasiun pemantauan mana (dari 12 stasiun) yang memiliki rata-rata konsentrasi PM2.5 tertinggi dan terendah, serta berapa persen hari di setiap stasiun yang melampaui ambang batas harian standar kualitas udara China (75 µg/m³) selama periode 1 Maret 2013 – 28 Februari 2017?
+- **Pertanyaan 2:** Pada bulan dan jam berapa rata-rata konsentrasi PM2.5 mencapai titik tertinggi dan terendah sepanjang tiga tahun kalender penuh 2014–2016, dan seberapa besar perubahan rata-rata tahunannya dari 2014 ke 2016?
+- **Pertanyaan 3:** Dari variabel cuaca (suhu, tekanan udara, titik embun, curah hujan, kecepatan angin), variabel mana yang memiliki korelasi paling kuat dengan PM2.5 harian, dan dari arah angin mana PM2.5 rata-rata paling tinggi, selama periode 1 Maret 2013 – 28 Februari 2017?
 
 ## Temuan Utama
 - **Wanshouxigong** tertinggi (≈84,5 µg/m³) dan **Dingling** terendah (≈62,5 µg/m³). Sembilan stasiun urban hampir setara,
