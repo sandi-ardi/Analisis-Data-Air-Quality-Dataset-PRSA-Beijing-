@@ -1,0 +1,2 @@
+Dashboard Streamlit Cloud: (isi dengan tautan setelah deploy, contoh: https://nama-app-anda.streamlit.app)
+Repository GitHub        : (isi dengan tautan repository Anda)
